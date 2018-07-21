@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## LeetCode Study Notes by RobbinsChen
 
-You can use the [editor on GitHub](https://github.com/RobbinsChen/LeetCodeStudy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+使用C++完成LeetCode的免费算法题。
+针对题目类型，按题号顺序进行分析解答，大部分题目给出完整分析以及代码。
+慢慢学习慢慢完善，加油ヾ(◍°∇°◍)ﾉﾞ
 
 ### Markdown
 
